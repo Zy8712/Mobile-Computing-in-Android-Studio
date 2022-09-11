@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Zero</string>
+    <string name="_0">0</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="_6">6</string>
+    <string name="_7">7</string>
+    <string name="_8">8</string>
+    <string name="s0">ZERO</string>
+    <string name="s1">ONE</string>
+    <string name="s2">TWO</string>
+    <string name="s3">THREE</string>
+    <string name="s4">FOUR</string>
+    <string name="s5">FIVE</string>
+    <string name="s6">SIX</string>
+    <string name="s7">SEVEN</string>
+    <string name="s8">EIGHT</string>
+    <string name="_25_w_x_75_h">25%W X 75%H</string>
+</resources>
